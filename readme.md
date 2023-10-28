@@ -1,5 +1,5 @@
-## TensorFlow 2.3-based Fruit and Vegetable Recognition System
-Hello everyone! I'm Lei. This is the code for fruit and vegetable recognition. It also serves as a template for TensorFlow-based object classification. I hope it proves helpful to you.
+## TensorFlow -based Picture Recognition System
+Hello everyone! I'm Lei. This is the code for picture recognition. It also serves as a template for TensorFlow-based object classification. I hope it proves helpful to you.
 
 ### Code Structure
 We mainly classify by training two models using TensorFlow. The project's directory structure is as follows:
