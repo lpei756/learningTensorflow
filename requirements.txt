@@ -1,0 +1,5 @@
+tensorflow-cpu
+pyqt5
+pillow
+opencv-python
+matplotlib
